@@ -1,0 +1,21 @@
+body{
+    font-weight: lighter;
+    font-family:cursive;
+}
+.card-container{
+    background-image: url("https://t3.ftcdn.net/jpg/03/20/92/14/360_F_320921445_dRoWotbadljT88rNuCodo3CzmuBCLr1o.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 120px 50px 50px 480px;
+    height: 500px;
+    border: 3.5px solid black;
+    width: 400px;
+    border-radius: 40px;
+}
+
+h1{
+    font-size: large;
+}
+.Weather-report{
+    padding: 210px 0px 50px 180px;
+}
